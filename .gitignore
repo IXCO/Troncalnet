@@ -1,0 +1,4 @@
+*.png
+*.xctest
+CryptoSwift/*
+Connection.swift
