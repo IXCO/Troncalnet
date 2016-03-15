@@ -10,7 +10,7 @@ import UIKit
 
 class HistorialViewController: UIViewController {
     var auto:Auto!
-    var periodosPosibles=["1 Semana","2 Semanas","1 Mes"]
+    var periodosPosibles=["1 Semana"]
     var periodoSeleccionado:Int = 0
     var dias:String!
     
